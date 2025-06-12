@@ -4,7 +4,7 @@
 
 Étapes pour compiler :
 
-- Cloner le dossier _valejule-pereuili_.
+- Cloner le dossier principal.
 - Ouvrir le terminal dans ce dossier.
 - Écrire la commande _make_.
 
